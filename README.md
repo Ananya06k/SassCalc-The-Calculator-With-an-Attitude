@@ -1,4 +1,3 @@
-
 SassCalc is a web-based calculator that hates math as much as you do. It gives correct answers only half the time and the rest of the time, it mocks you for even asking. With an AI character that reacts with sarcasm and sass, this calculator makes simple arithmetic unnecessarily dramatic.
 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
@@ -74,7 +73,7 @@ For Software:
 Solving 1+1
 
 ![Screenshot2](https://github.com/Ananya06k/SassCalc-The-Calculator-With-an-Attitude/blob/main/2e40c9f5-202c-4415-b0a4-a20b9dcbf646.jfif)
-*Add caption explaining what this shows*
+Solving 999860004-6
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
