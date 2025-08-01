@@ -70,7 +70,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](https://github.com/Ananya06k/SassCalc-The-Calculator-With-an-Attitude/blob/main/152541cb-6429-4751-9c14-8707db1a8e45.jfif)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
