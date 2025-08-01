@@ -75,7 +75,7 @@ Solving 1+1
 ![Screenshot2](https://github.com/Ananya06k/SassCalc-The-Calculator-With-an-Attitude/blob/main/2e40c9f5-202c-4415-b0a4-a20b9dcbf646.jfif)
 Solving 999860004-6
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](https://github.com/Ananya06k/SassCalc-The-Calculator-With-an-Attitude/blob/main/416d4e25-fa95-4777-882d-bfccdb29533c.jfif)
 *Add caption explaining what this shows*
 
 # Diagrams
