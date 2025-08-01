@@ -27,20 +27,32 @@ We built a calculator with built-in sarcasm. Ask it a simple question? Prepare f
 ## Technical Details
 ### Technologies/Components Used
 For Software:
+For Software:
+Languages used:
 
-  Languages used:
-    JavaScript
-    HTML
-    CSS
-  Frameworks used:
-    None (Vanilla JavaScript used for logic and interactivity)
-  Libraries used:
-    None (GIF rendering and animations are handled natively through HTML <img> and CSS animations)
-  Tools used:
-    Visual Studio Code
-    GitHub
-    Google Gemini 1.5 Flash API (for sarcastic AI character responses)
-    Online GIF generators (e.g., Bing Image Creator, Leonardo AI, etc.)
+JavaScript
+
+HTML
+
+CSS
+
+Frameworks used:
+
+None (Vanilla JavaScript used for logic and interactivity)
+
+Libraries used:
+
+None (GIF rendering and animations are handled natively through HTML <img> and CSS animations)
+
+Tools used:
+
+Visual Studio Code
+
+GitHub
+
+Google Gemini 1.5 Flash API (for sarcastic AI character responses)
+
+Online GIF generators (e.g., Bing Image Creator, Leonardo AI, etc.)
 
 For Hardware:
 Not applicable for this project (purely software-based)
