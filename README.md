@@ -76,7 +76,7 @@ Solving 1+1
 Solving 999860004-6
 
 ![Screenshot3](https://github.com/Ananya06k/SassCalc-The-Calculator-With-an-Attitude/blob/main/416d4e25-fa95-4777-882d-bfccdb29533c.jfif)
-*Add caption explaining what this shows*
+2+2 gives error
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
