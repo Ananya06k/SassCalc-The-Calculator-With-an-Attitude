@@ -27,6 +27,7 @@ We built a calculator with built-in sarcasm. Ask it a simple question? Prepare f
 ## Technical Details
 ### Technologies/Components Used
 For Software:
+
   Languages used:
     JavaScript
     HTML
