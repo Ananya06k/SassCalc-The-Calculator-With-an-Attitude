@@ -1,10 +1,10 @@
-# SassCalc-The-Calculator-With-an-Attitude
+
 SassCalc is a web-based calculator that hates math as much as you do. It gives correct answers only half the time and the rest of the time, it mocks you for even asking. With an AI character that reacts with sarcasm and sass, this calculator makes simple arithmetic unnecessarily dramatic.
 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# SassCalc-The-Calculator-With-an-Attitude 🎯
 
 
 ## Basic Details
@@ -12,18 +12,17 @@ SassCalc is a web-based calculator that hates math as much as you do. It gives c
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Ananya Krishnadas - Adishankara Institute of Engineering and Technology
+- Member 2: Alan Paulose - Adishankara Institute of Engineering and Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+SassCalc is a web-based calculator that hates math as much as you do. It gives correct answers only half the time and the rest of the time, it mocks you for even asking. With an AI character that reacts with sarcasm and sass, this calculator makes simple arithmetic unnecessarily dramatic.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Calculators are too boring. They just... calculate. Where’s the emotional trauma? The judgment? The existential dread after doing 2 + 2?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We built a calculator with built-in sarcasm. Ask it a simple question? Prepare for an eye roll. Ask it something complex? It pretends to sweat. Sometimes it gives the right answer, sometimes it just gives up. Either way, it talks back. And yes, it’s pastel-themed – because aesthetic bullying matters.
 
 ## Technical Details
 ### Technologies/Components Used
