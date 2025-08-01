@@ -73,7 +73,7 @@ For Software:
 ![Screenshot1](https://github.com/Ananya06k/SassCalc-The-Calculator-With-an-Attitude/blob/main/152541cb-6429-4751-9c14-8707db1a8e45.jfif)
 Solving 1+1
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](https://github.com/Ananya06k/SassCalc-The-Calculator-With-an-Attitude/blob/main/2e40c9f5-202c-4415-b0a4-a20b9dcbf646.jfif)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
