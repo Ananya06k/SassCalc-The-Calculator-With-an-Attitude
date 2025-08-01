@@ -55,6 +55,7 @@ For Software:
     Online GIF generators (e.g., Bing Image Creator, Leonardo AI, etc.)
 
 For Hardware:
+
   Not applicable for this project (purely software-based)
 
 ### Implementation
