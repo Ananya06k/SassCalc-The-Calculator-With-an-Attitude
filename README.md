@@ -8,7 +8,7 @@ SassCalc is a web-based calculator that hates math as much as you do. It gives c
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Byte Squad
 
 
 ### Team Members
